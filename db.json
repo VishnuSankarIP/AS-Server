@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "id": "3064",
+      "title": "Garden at Giverny",
+      "artName": "Monet ",
+      "imageLink": "https://www.thoughtco.com/thmb/0H9TLZZ1pZPWA-FOjDGIvhQoNzA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Getty3159321-Monet-garden-1-58b8fff73df78c353c618f96.jpg"
+    },
+    {
+      "id": "874d",
+      "title": "Van Gogh Self Portrait",
+      "artName": " Vincent van Gogh",
+      "imageLink": "https://www.thoughtco.com/thmb/szo8xKoWnITlOq9yruDWImgE3_o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flickr-VanGoghSelfP1-58b8ffdf5f9b58af5ccd9e75.jpg"
+    },
+    {
+      "id": "6409",
+      "title": "The Mona Lisa",
+      "artName": "Leonardo da Vinci",
+      "imageLink": "https://www.thoughtco.com/thmb/uGuVVsfu9w3oKEMcTR4rNQP_lIY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Getty-MonaLisaWeb2-57c739c75f9b5829f470fd58.jpg"
+    },
+    {
+      "title": "Water Lilies",
+      "artName": "Claude Monet",
+      "imageLink": "https://www.thoughtco.com/thmb/31Cgq9azn27tuqyxY0xmKra1zdg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flickr-MonetWaterlily-58b8ffe75f9b58af5ccdb3b7.jpg",
+      "id": "IFRNo27"
+    }
+  ],
+  "categories": [
+    {
+      "uploadCategory": "featured",
+      "allImages": [],
+      "id": 1
+    }
+  ],
+  "history": []
+}
